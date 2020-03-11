@@ -1,0 +1,32 @@
+.content{
+    /*设置宽度高度背景颜色*/
+    width: 80%;
+    height: 80%;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+	background: rgb(253, 253, 253);
+	position: fixed;/*固定在顶部 */
+    padding: 0%;
+}
+
+.workcard{
+    float:left;
+    margin-left:3%;/* 两个workcard之间的距离*/
+    margin-top:4%;
+	position: relative;
+    overflow: hidden;
+    display: block;
+    width: 320px;
+    height:150px;
+    background: rgb(33, 10, 136);
+}
+
+
+.workcardpic{
+    widows: 100px;
+    height: 100px;
+    margin-left: 25px;
+    margin-left: 25px;
+}

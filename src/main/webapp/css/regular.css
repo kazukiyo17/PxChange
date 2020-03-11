@@ -1,0 +1,28 @@
+body{
+    background: rgb(209, 226, 54);
+}
+
+.top{
+    position: absolute;
+    z-index: 99999;
+    left: 0; 
+    right: 0;
+    height: 70px;
+}
+
+.left{
+    position: absolute;
+    z-index: 88888;
+    top: 0;
+    bottom: 0;
+    left:0;
+    width: 150px;
+}
+
+.middle{
+    position: absolute;
+    left:150px; 
+    top: 70px; 
+    right: 0; 
+    bottom: 0;
+}
